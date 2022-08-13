@@ -4,7 +4,7 @@ Tugas-tugas Yudisium Informatika
 ![image](https://user-images.githubusercontent.com/57496224/179342019-c9f2268c-31e0-466c-82ea-5541a7b3f2e8.png)
 
 ## Task Online
-1. [ ] Mahasiswa meminta blanko Formulir Kelengkapan Kurikulum (FKK) Program Studi di Prodi masing-masing (dibagikan oleh Koordinator Skripsi).
+1. [X] Mahasiswa meminta blanko Formulir Kelengkapan Kurikulum (FKK) Program Studi di Prodi masing-masing (dibagikan oleh Koordinator Skripsi).
 
 2. [ ] Blanko diisi dengan lengkap, lalu dikirimkan via email ke Kaprodi. Setelah diperiksa kebenaran isinya oleh Kaprodi, mahasiswa diminta menandatangi blanko tersebut, dan blanko dikirimkan kembali ke Kaprodi dan Sekretaris Prodi (henny@unpar.ac.id).
 
@@ -23,7 +23,7 @@ Tugas-tugas Yudisium Informatika
      
 8. [ ] Menggunggah Softcopy KTP, akte kelahiran, Surat Keterangan Bebas Pinjam Buku, pas foto pada poin 5 dengan kualitas 300 dpi → melalui G-Form https://bit.ly/Lampiran-Yudisium77.
 
-9. [ ] Mengisi Data wisuda di file Excel pada tautan: https://s.id/Data-Yudisium-FTIS dan Menu Kelulusan di STUPOR (yang disediakan BAA).
+9. [X] Mengisi Data wisuda di file Excel pada tautan: https://s.id/Data-Yudisium-FTIS dan Menu Kelulusan di STUPOR (yang disediakan BAA).
 
 10. [ ] Mengisi Surat Keterangan Pendamping Ijazah (SKPI) pada STUPOR melalui menu KEGIATAN MAHASISWA (sudah bisa mulai diisi mulai dari sekarang).
 
